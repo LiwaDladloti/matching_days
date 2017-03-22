@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(-45deg, #056960, #3f5452);
+}
+#dates {
+    text-align: center;
+}
+hr {
+    visibility: hidden;
+}
+p {
+    border: solid 5px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    border-bottom-width: thin;
+    width: 15%;
+    display: inline-block;
+}
+#daysOfWeek{
+    text-align: center;
+}
+footer {
+    text-align: center;
+    margin-top: 10em;
+}
+.bothMatch {
+    background-color: green;
+}
+.firstMatch {
+    background-color: blue;
+}
+.secondMatch {
+    background-color: red;
+}
